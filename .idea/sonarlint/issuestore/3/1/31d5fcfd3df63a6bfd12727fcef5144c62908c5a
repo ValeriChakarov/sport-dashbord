@@ -1,0 +1,10 @@
+
+j
+java:S3305"TInject this field value directly into "importUserJob", the only method that uses it.(ÿ£î°
+o
+java:S1171,"YMove the contents of this initializer to a standard constructor or to field initializers.(˜ž½¢
+p	java:S116!"VRename this field "FIELD_NAMES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð¦Ò üÿÿÿÿ
+B
+java:S3599,",Use another way to initialize this instance.(˜ž½¢
+b
+java:S3305"LInject this field value directly into "step1", the only method that uses it.(ô‚àË

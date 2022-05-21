@@ -1,0 +1,41 @@
+
+H
+java:S1068"+Remove this unused "umpire1" private field.(ûœÒ8·¢Âº…0
+m	java:S116"XRename this field "neutral_venue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô†ùÊ
+L
+java:S1068"*Remove this unused "winner" private field.(óú¦šùÿÿÿÿ8·¢Âº…0
+N
+java:S1068"1Remove this unused "neutral_venue" private field.(Ô†ùÊ8·¢Âº…0
+S
+java:S1068"1Remove this unused "toss_decision" private field.(Ğ´°Çúÿÿÿÿ8·¢Âº…0
+k	java:S116"VRename this field "toss_winner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûµ•¿
+G
+java:S1068"*Remove this unused "method" private field.(ÁÙôş8·¢Âº…0
+C
+java:S1068	"&Remove this unused "id" private field.(æ¨ç†8·¢Âº…0
+U
+java:S1068"3Remove this unused "player_of_match" private field.(…—·ßüÿÿÿÿ8·¢Âº…0
+r	java:S116"XRename this field "result_margin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ùêùÿÿÿÿ
+P
+java:S1068".Remove this unused "eliminator" private field.(ÔñÛÖşÿÿÿÿ8·¢Âº…0
+M
+java:S1068"+Remove this unused "umpire2" private field.(«‰¢ıÿÿÿÿ8·¢Âº…0
+r	java:S116"XRename this field "toss_decision" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ´°Çúÿÿÿÿ
+L
+java:S1068"/Remove this unused "toss_winner" private field.(Ûµ•¿8·¢Âº…0
+J
+java:S1068"(Remove this unused "date" private field.(°‡è›üÿÿÿÿ8·¢Âº…0
+K
+java:S1068")Remove this unused "team1" private field.(Ï‡‹ûÿÿÿÿ8·¢Âº…0
+F
+java:S1068")Remove this unused "team2" private field.(¬ÇÉÉ8·¢Âº…0
+S
+java:S1068"1Remove this unused "result_margin" private field.(†ùêùÿÿÿÿ8·¢Âº…0
+E
+java:S1068
+"(Remove this unused "city" private field.(“øÌà8·¢Âº…0
+t	java:S116"ZRename this field "player_of_match" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…—·ßüÿÿÿÿ
+K
+java:S1068")Remove this unused "venue" private field.(ØËÎ™ıÿÿÿÿ8·¢Âº…0
+G
+java:S1068"*Remove this unused "result" private field.(ç“š×8·¢Âº…0
